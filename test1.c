@@ -7,4 +7,5 @@ void main()
     print(a + b);
     a;
     b;
+    c;
 }
