@@ -6,4 +6,5 @@ void main()
     int b = 4;
     print(a + b);
     a;
+    b;
 }
